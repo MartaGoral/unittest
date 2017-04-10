@@ -5,4 +5,4 @@ python:
 install: "pip install -r requirements.txt"
 
 script: 
-  - python unit_testy.py test
+  - python unit_testy.py
