@@ -11,8 +11,5 @@ robotframework-ride==1.5.2.1
 robotframework-selenium2library==1.8.0
 selenium==3.0.1
 six==1.10.0
-unity-lens-photos==1.0
 virtualenv==15.0.3
 wrapt==1.10.8
-wxPython==3.0.2.0
-wxPython-common==3.0.2.0
